@@ -31,7 +31,7 @@ class Clock extends Component {
       return (
         <div>
           <FormattedDate date={this.state.date} />
-          <h2>It is {this.state.date.toLocaleTimeString()}.</h2>
+          <h2>It is {this.state.date.toLocaleTimeString()}. The clock is ticketing.</h2>
         </div>
       );
     }

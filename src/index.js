@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Something from './App';
+import Header from './App';
+import Comment from './components/Comment/comment';
 
 class Clock extends React.Component {
   constructor(props){
@@ -28,7 +29,6 @@ class Clock extends React.Component {
   render() {
     return (
       <div>
-        <Something />
         <FormattedDate date={this.state.date} />
       </div>
     );
@@ -36,13 +36,28 @@ class Clock extends React.Component {
 }
 
 function FormattedDate(props) {
-  return <h2>It is {props.date.toLocaleTimeString()}.</h2>;
+  return <h2>It is {props.date.toLocaleTimeString()}. The clock is ticking.</h2>;
 }
+
+
+const comment = {
+  date: new Date(),
+  text: 'This is Under construction!',
+  author: {
+    name: 'Matthew',
+    avatarUrl: 'http://placekitten.com/g/64/64'
+  }
+};
 
 function App() {
   return(
     <div>
+      <Header />
       <Clock/>
+      <Comment
+        date={comment.date}
+        text={comment.text}
+        author={comment.author} />
     </div>
   );
 }

@@ -3,6 +3,7 @@
 function Comment(props) {
   return (
     <div className="Comment">
+    <h2>Comments from the Developer</h2>
     <UserInfo user={props.author} />
     <div className="Comment-text">
       {props.text}
