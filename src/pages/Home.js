@@ -1,10 +1,12 @@
 import Bio from "../components/Bio"
 import Welcome from "../components/Welcome"
+import React from 'react';
+
 
 function Home(){
     return (
       <div>
-        <Welcome name="Matthew"/>
+        <Welcome/>
         <Bio/>
       </div>
     );
