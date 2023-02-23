@@ -44,8 +44,7 @@ const featuredPosts = [
   {
     title: 'DevOps',
     description:
-      `DevOps is a lifestyle.  Continous is the key word.  Continous integration, continous delivery, continous monitoring are all buzz phrases in the industry.  I live with a DevOps mind set, continous learning, continous improvment, continous advancement.  
-      It is about the process, not the product.  It is about the knowledge, not the test.  Learing daily, imporving daily, and being happy on the journey are the...`,
+      `DevOps is a lifestyle.  Continous is the key word.  Continous integration, continous delivery, continous monitoring are all buzz phrases in the industry.  I live with a DevOps mind set, continous learning, continous improvment, continous advancement.  Life is about aquiring knowledge, not passing the test.  Learing daily, imporving daily, and being happy on the journey are the...`,
     image: 'https://source.unsplash.com/random',
     imageLabel: 'Image Text',
   },
