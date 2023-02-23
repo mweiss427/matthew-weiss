@@ -1,13 +1,12 @@
-import Bio from "../components/Bio"
-import Welcome from "../components/Welcome"
+
 import React from 'react';
+import Blog from "../components/blog/Blog"
 
 
 function Home(){
     return (
       <div>
-        <Welcome/>
-        <Bio/>
+        <Blog />  
       </div>
     );
     }
