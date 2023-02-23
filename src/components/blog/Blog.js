@@ -18,62 +18,56 @@ import post3 from './blog-post.3.md';
 
 const sections = [
   { title: 'Technology', url: '#' },
-  { title: 'Design', url: '#' },
-  { title: 'Culture', url: '#' },
-  { title: 'Business', url: '#' },
-  { title: 'Politics', url: '#' },
-  { title: 'Opinion', url: '#' },
-  { title: 'Science', url: '#' },
-  { title: 'Health', url: '#' },
-  { title: 'Style', url: '#' },
-  { title: 'Travel', url: '#' },
+  { title: 'Health', url: '#'},
+  { title: 'Curling', url: '#'},
+  { title: 'DevOps', url: '#'},
+  { title: "Home Automation", url: '#'}
 ];
 
 const mainFeaturedPost = {
-  title: 'Title of a longer featured blog post',
+  title: 'Are you preparing to live forever? Should you?',
   description:
-    "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
+    "Advancements in technology are so rapid the future is as unknown as it has every been.  Start living a life that will prepare you for rapid change.",
   image: 'https://source.unsplash.com/random',
-  imageText: 'main image description',
+  imageText: 'Technology pic',
   linkText: 'Continue reading…',
 };
 
 const featuredPosts = [
   {
-    title: 'Featured post',
-    date: 'Nov 12',
+    title: 'Curling',
     description:
-      'This is a wider card with supporting text below as a natural lead-in to additional content.',
+      `"Curling is a game of skill and of traditions. A shot well executed is a delight to see and so, too, it is a fine thing to observe the time-honoured traditions of curling being applied in the true spirit of the game. Curlers play to win but never to humble their opponents. A true curler would prefer to lose rather than win unfairly." ~ The World Curling Federation rulebook`,
     image: 'https://source.unsplash.com/random',
-    imageLabel: 'Image Text',
+    imageLabel: 'Curling',
   },
   {
-    title: 'Post title',
-    date: 'Nov 11',
+    title: 'DevOps',
     description:
-      'This is a wider card with supporting text below as a natural lead-in to additional content.',
+      `DevOps is a lifestyle.  Continous is the key word.  Continous integration, continous delivery, continous monitoring are all buzz phrases in the industry.  I live with a DevOps mind set, continous learning, continous improvment, continous advancement.  
+      It is about the process, not the product.  It is about the knowledge, not the test.  Learing daily, imporving daily, and being happy on the journey are the...`,
     image: 'https://source.unsplash.com/random',
     imageLabel: 'Image Text',
   },
 ];
 
-const posts = [books, books, books];
+const posts = [post3, post1];
 
 const sidebar = {
   title: 'About Me',
   description:
     `I am a dreamer that cares about building a better future. 
     Strong self-learner that thrives on solving problems.  
-    I am an enterinal optimist that is driven to leave the world better off then when I got here.  
+    I am an enterinal optimist and will leave the world better off then when I got here.  
     A builder that creates meaningful products. 
     A communicator that focuses education and sharing ideas`,
   archives: [
     
   ],
   social: [
-    { name: 'GitHub', icon: GitHubIcon },
-    { name: 'Twitter', icon: TwitterIcon },
-    { name: 'Facebook', icon: FacebookIcon },
+    { name: 'GitHub', icon: GitHubIcon, href: "https://github.com/mweiss427" },
+    { name: 'Twitter', icon: TwitterIcon, href: "https://twitter.com/Matt_E_Weiss" },
+    { name: 'Facebook', icon: FacebookIcon, href: "https://www.facebook.com/Weiss.Matthew" },
   ],
 };
 

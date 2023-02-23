@@ -27,13 +27,13 @@ function Sidebar(props) {
       ))}
 
       <Typography variant="h6" gutterBottom sx={{ mt: 3 }}>
-        Social
+        Socials
       </Typography>
       {social.map((network) => (
         <Link
           display="block"
           variant="body1"
-          href="#"
+          href={network.href}
           key={network.name}
           sx={{ mb: 0.5 }}
         >
