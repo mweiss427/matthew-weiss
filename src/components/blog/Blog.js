@@ -57,9 +57,9 @@ const sidebar = {
   description:
     `I am a dreamer that cares about building a better future. 
     Strong self-learner that thrives on solving problems.  
-    I am an enterinal optimist and will leave the world better off then when I got here.  
+    I am an enterinal optimist and will make the world a better place.  
     A builder that creates meaningful products. 
-    A communicator that focuses education and sharing ideas`,
+    A communicator that focuses on education and sharing ideas`,
   archives: [
     
   ],
@@ -86,7 +86,7 @@ export default function Blog() {
             ))}
           </Grid>
           <Grid container spacing={5} sx={{ mt: 3 }}>
-            <Main title="From the firehose" posts={posts} />
+            <Main title="Articles" posts={posts} />
             <Sidebar
               title={sidebar.title}
               description={sidebar.description}
