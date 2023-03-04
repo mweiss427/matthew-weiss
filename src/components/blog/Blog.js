@@ -11,10 +11,7 @@ import MainFeaturedPost from './MainFeaturedPost';
 import FeaturedPost from './FeaturedPost';
 import Main from './Main';
 import Sidebar from './Sidebar';
-import Footer from './Footer';
-import post1 from './blog-post.1.md';
 import books from './books.md';
-import post3 from './blog-post.3.md';
 
 const sections = [
   { title: 'Technology', url: '#' },
@@ -50,7 +47,7 @@ const featuredPosts = [
   },
 ];
 
-const posts = [post3, post1];
+const posts = [books];
 
 const sidebar = {
   title: 'About Me',
@@ -96,10 +93,6 @@ export default function Blog() {
           </Grid>
         </main>
       </Container>
-      <Footer
-        title="Thank you"
-        description="I hope you found value in my site.  Thank you for your time."
-      />
     </ThemeProvider>
   );
 }
