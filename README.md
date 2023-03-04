@@ -2,7 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Local Development 
+
+`git clone https://github.com/mweiss427/matthew-weiss.git`
+
+`npm install`
+
+`npm start`
+
+
+## Available Script
 
 In the project directory, you can run:
 
