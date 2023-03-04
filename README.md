@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Local Development 
+## Local Development
 
 `git clone https://github.com/mweiss427/matthew-weiss.git`
 

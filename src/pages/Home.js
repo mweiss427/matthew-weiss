@@ -1,32 +1,29 @@
 
 import React from 'react';
-import Blog from "../components/blog/Blog"
-import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
-import Manatee from '../components/Animals/Manatee';
-import Narwhal from '../components/Animals/Narwhal';
-import Whale from '../components/Animals/Whale';
+import { createTheme, ThemeProvider } from '@mui/material/styles';
+import CssBaseline from '@mui/material/CssBaseline';
+import { Routes, Route } from 'react-router-dom';
+import Technology from '../components/Technology';
+import Health from '../components/Health';
+import Curling from '../components/Curling';
+import DevOps from '../components/DevOps';
 
 function Home(){
-    return (
-      <div>
-        <Blog/>
-        <h1> Marine Mammals </h1>
-        <nav>
-          <ul>
-            <li><a href="/manatee">Manatee</a></li>
-            <li><a href="/narwhal">Narwhal</a></li>
-            <li><a href="/whale">Whale</a></li>
-        </ul>
-        </nav>
-        <BrowserRouter>
-          <Routes>
-            <Route path="/manatee" element={<Manatee/>} />
-            <Route path="/narwhal" element={<Narwhal/>} />
-            <Route path="/whale" element={<Whale/>} />
-          </Routes>
-        </BrowserRouter>
-      </div>
-    );
-    }
+  const theme = createTheme();
+  return (
+    <>
+      <ThemeProvider theme={theme}>
+      <CssBaseline />
+     
+        <Routes>
+          <Route path="/technology" element={<Technology/>} />
+          <Route path="/health" element={<Health/>} />
+          <Route path="/curling" element={<Curling/>} />
+          <Route path="/devops" element={<DevOps/>} />
+        </Routes>
+      </ThemeProvider>
+    </>
+  );
+  }
 
 export default Home;
