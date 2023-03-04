@@ -14,7 +14,7 @@ import Sidebar from './Sidebar';
 import books from './books.md';
 
 const sections = [
-  { title: 'Technology', url: '#' },
+  { title: 'Technology', url: '/technology' },
   { title: 'Health', url: '#'},
   { title: 'Curling', url: '#'},
   { title: 'DevOps', url: '#'},

@@ -6,8 +6,6 @@ import Card from '@mui/material/Card';
 import CardActionArea from '@mui/material/CardActionArea';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
-import Link from '@mui/material/Link';
-import Stack from '@mui/material/Stack';
 
 function FeaturedPost(props) {
   const { post } = props;
@@ -26,14 +24,6 @@ function FeaturedPost(props) {
             <Typography variant="subtitle1" paragraph>
               {post.description}
             </Typography>
-            <Link
-              href="https://google.com"
-              key="google"
-            >
-              <Stack>
-                <span>To Google</span>
-              </Stack>
-            </Link>
           </CardContent>
           <CardMedia
             component="img"

@@ -6,8 +6,6 @@ import Card from '@mui/material/Card';
 import CardActionArea from '@mui/material/CardActionArea';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
-import Link from '@mui/material/Link';
-import Stack from '@mui/material/Stack';
 import Footer from '../components/blog/Footer';
 
 
@@ -27,14 +25,6 @@ function End(){
             <Typography variant="subtitle1" paragraph>
               You've reached the end of my website.  You've read it all.
             </Typography>
-            <Link
-              href="https://google.com"
-              key="google"
-            >
-              <Stack>
-                <span>To Google</span>
-              </Stack>
-            </Link>
           </CardContent>
           <CardMedia
             component="img"
