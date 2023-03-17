@@ -13,6 +13,7 @@
     "markdown-to-jsx": "^7.1.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.5",
     "react-router-dom": "^6.8.2",
     "react-scripts": "5.0.1",
     "react-social-icons": "^5.15.0",

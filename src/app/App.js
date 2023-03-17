@@ -6,6 +6,7 @@ import Header from '../components/blog/Header'
 
 const sections = [
   { title: 'Technology', url: '/technology' },
+  { title: 'Books', url: '/books' },
   { title: 'Health', url: '/health'},
   { title: 'Curling', url: '/curling'},
   { title: 'DevOps', url: '/devops'}
