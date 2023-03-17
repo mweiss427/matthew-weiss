@@ -1,7 +1,5 @@
 # A brief history of technology
 
-# A brief history of technology
-
 When looking back in history at technology, what sets humans apart from other animals is our ability to use technology to accomplish our goals. We were able to harness fire to keep us warm, cook our food, and even burn our enemies. We were able to use chemistry and metallurgy to create new alloys to make our tools stronger and more efficient. We captured energy almost everywhere and looked to use it to our advantage, shaping the world using the tools that were built by our ancestors.
 
 Prior to the computer, technological advancements were relatively slow compared to today. Plows were driven by herd animals, and the workforce was mostly dedicated to feeding people. This remained the same for hundreds of years, with Ancient Rome having a population of roughly 1 million people, about the size of Austin, Texas, Birmingham UK, or Naples Italy. The entire empire was needed to feed the city, and transport was slow and dangerous. The crops didn't have the same shelf life or yields as they do today. Most people would learn a trade such as farming, smithing, or masonry, predetermined by their family. Rarely would a generation come along and change everything, and it could be argued that the biggest changes were made during the industrial revolution.
