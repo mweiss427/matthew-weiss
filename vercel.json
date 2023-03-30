@@ -1,7 +1,8 @@
 {
     "build": {
       "env": {
-        "NPM_FLAGS": "--legacy-peer-deps"
+        "CI": "false",
+        "NPM_CONFIG_LEGACY_PEER_DEPS": "true"
       }
     }
   }
