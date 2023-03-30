@@ -1,8 +1,9 @@
+import { useEffect, useState } from 'react';
 import './App.css';
 import Home from "../pages/Home"
-import { BrowserRouter} from 'react-router-dom';
-import Footer from '../components/blog/Footer'
-import Header from '../components/blog/Header'
+import { BrowserRouter, useLocation } from 'react-router-dom';
+import Footer from '../components/Footer'
+import Header from '../components/Header'
 
 const sections = [
   { title: 'Technology', url: '/technology' },
@@ -13,19 +14,31 @@ const sections = [
 ];
 
 function App() {
-  return(
+  const location = useLocation();
+  const [theme, setTheme] = useState('');
+
+  useEffect(() => {
+    if (location.pathname === '/technology') {
+      setTheme('technology');
+    } else {
+      setTheme('');
+    }
+  }, [location.pathname]);
+
+  return (
     <div>
-     <BrowserRouter>
-        <Header title="Matthew E Weiss" sections={sections} />
-        <Home /> 
-        <Footer
-          title="Thank you"
-          description="I hope you found value in my site.  Thank you for your time."
-        />
-      </BrowserRouter>
+      <Header title="Matthew E Weiss" sections={sections} theme={theme} />
+      <Home />
     </div>
   );
 }
 
-export default App;
+function AppWrapper() {
+  return (
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
+  );
+}
 
+export default AppWrapper;

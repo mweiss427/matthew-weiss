@@ -1,0 +1,36 @@
+/* Header.css */
+.header {
+    border-bottom: 1px solid;
+    border-color: rgba(0, 0, 0, 0.12); /* or any other color for the divider */
+  }
+  
+  .header-title {
+    flex: 1;
+  }
+  
+  .header-nav {
+    justify-content: space-between;
+    overflow-x: auto;
+  }
+  
+  .nav-link {
+    padding: 8px;
+    flex-shrink: 0;
+  }
+  
+  /* Add theme-specific styles */
+  .header.technology {
+    background-color: #b2ffff; /* light teal */
+  }
+
+/* Add link color for the technology theme */
+.technology .nav-link {
+    color: #40e0d0; /* teal color */
+  }
+  
+  /* Add link hover styles for the technology theme */
+  .technology .nav-link:hover {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
