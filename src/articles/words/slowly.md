@@ -1,0 +1,1 @@
+[Slowly](./slowly.md) [is](./is.md) [an](./an.md) [adverb](./adverb.md) [that](./that.md) describes [an](./an.md) [action](./action.md) [or](./or.md) movement happening at [a](./a.md) low speed [or](./or.md) [a](./a.md) relaxed pace. [It](./it.md) implies [a](./a.md) gradual [or](./or.md) unhurried progress.

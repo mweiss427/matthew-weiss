@@ -1,0 +1,1 @@
+[Continuous](./continuous.md) [means](./means.md) [something](./something.md) [that](./that.md) [is](./is.md) uninterrupted, ongoing, [or](./or.md) constant. [It](./it.md) [refers](./refers.md) [to](./to.md) [the](./the.md) [state](./state.md) [of](./of.md) [being](./being.md) [continuous,](./continuous.md) without [any](./any.md) breaks, pauses, [or](./or.md) gaps.

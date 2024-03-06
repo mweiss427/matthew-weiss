@@ -1,0 +1,1 @@
+[Briefly](./briefly.md) [means](./means.md) [for](./for.md) [a](./a.md) short period [of](./of.md) time [or](./or.md) [in](./in.md) [a](./a.md) concise [and](./and.md) summarized [manner.](./manner.md)

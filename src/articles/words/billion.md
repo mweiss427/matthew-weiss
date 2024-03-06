@@ -1,0 +1,1 @@
+[The](./the.md) [word](./word.md) ["billion"](./billion.md) [is](./is.md) [a](./a.md) [numerical](./numerical.md) term [representing](./representing.md) [the](./the.md) [number](./number.md) 1,000,000,000. [It](./it.md) [is](./is.md) equivalent [to](./to.md) [one](./one.md) thousand million [or](./or.md) [one](./one.md) followed [by](./by.md) nine zeros (1,000,000,000).

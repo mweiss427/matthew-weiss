@@ -1,0 +1,1 @@
+[The](./the.md) [word](./word.md) ["walked"](./walked.md) [is](./is.md) [the](./the.md) past [tense](./tense.md) [of](./of.md) [the](./the.md) [verb](./verb.md) "walk." [It](./it.md) [refers](./refers.md) [to](./to.md) [the](./the.md) [action](./action.md) [of](./of.md) moving [on](./on.md) foot [by](./by.md) taking steps.

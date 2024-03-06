@@ -1,0 +1,1 @@
+[The](./the.md) [word](./word.md) ['ran'](./ran.md) [is](./is.md) [the](./the.md) past [tense](./tense.md) [of](./of.md) [the](./the.md) [verb](./verb.md) ['run'.](./run.md) [It](./it.md) [refers](./refers.md) [to](./to.md) [the](./the.md) [action](./action.md) [of](./of.md) moving swiftly [on](./on.md) foot, [typically](./typically.md) [with](./with.md) [a](./a.md) quick pace.

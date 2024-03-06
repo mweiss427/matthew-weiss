@@ -1,0 +1,1 @@
+[Often](./often.md) [is](./is.md) [an](./an.md) [adverb](./adverb.md) [that](./that.md) [means](./means.md) frequently, [many](./many.md) times, [or](./or.md) [on](./on.md) numerous occasions. [It](./it.md) [indicates](./indicates.md) [a](./a.md) repeated [or](./or.md) regular occurrence [of](./of.md) [an](./an.md) [action](./action.md) [or](./or.md) [event.](./event.md)

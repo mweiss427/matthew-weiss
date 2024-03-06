@@ -1,0 +1,1 @@
+[Hello](./hello.md) [is](./is.md) [an](./an.md) informal greeting [used](./used.md) [to](./to.md) [say](./say.md) "hi" [or](./or.md) "how are [you?"](./you.md) [It](./it.md) [is](./is.md) [a](./a.md) common [way](./way.md) [to](./to.md) initiate [a](./a.md) conversation [or](./or.md) acknowledge someone's presence.

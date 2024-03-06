@@ -1,0 +1,1 @@
+[The](./the.md) [word](./word.md) ["done"](./done.md) [is](./is.md) [an](./an.md) adjective [that](./that.md) [means](./means.md) completed, finished, [or](./or.md) ended. [It](./it.md) [indicates](./indicates.md) [that](./that.md) [something](./something.md) [has](./has.md) reached [a](./a.md) [state](./state.md) [of](./of.md) conclusion [or](./or.md) fulfillment.

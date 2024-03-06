@@ -1,0 +1,1 @@
+[Indefinite](./indefinite.md) [means](./means.md) without [a](./a.md) clear [or](./or.md) [specific](./specific.md) limit, duration, [or](./or.md) end. [It](./it.md) [refers](./refers.md) [to](./to.md) [something](./something.md) [that](./that.md) [is](./is.md) [not](./not.md) defined, [certain,](./certain.md) [or](./or.md) fixed.
